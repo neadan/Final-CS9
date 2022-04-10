@@ -13,6 +13,7 @@ Your first task is to dockerize the payment-service application.
 You can find the application here: https://github.com/neadan/payment-service.git
 Note: the project is written in python 3.10
 
+***For this part, ignore the docker-compose.yaml file***
 Steps:
 - Clone the repo
     git clone https://github.com/neadan/payment-service.git
