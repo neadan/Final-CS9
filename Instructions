@@ -29,7 +29,7 @@ Steps:
 Part 2
 You would like to add the following features to the project:
 - A postgres database service (called payment-db) -- your payment-service must depend on payment-db
-- A named volume called postgres-db for your db-back service
+- A named volume called postgres-db for your payment-db service
 - docker-compose.yaml file for deployment
 
 Luckily, a colleague has helped you with by starting a docker-compose.yaml file, however he tells you that there
