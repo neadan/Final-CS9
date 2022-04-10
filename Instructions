@@ -39,7 +39,7 @@ Steps:
 - Enter the credentials for the postgres database AND service in the docker-compose file:
     POSTGRES_USER: myUser
     POSTGRES_PASSWORD: myPassword
-- Run the docker-compose file and try to debug the errors (hint there are 3)
+- Run the docker-compose file and try to debug the errors (hint there are 3) -- comment your changes in the docker-compose
 - Make sure your payment-service depends on payment-db
 - When services are up, try to visit the /api/v1/home endpoint
 - Push your changes to your feature branch
